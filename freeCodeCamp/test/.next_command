@@ -26,3 +26,10 @@ pwd
 ls --color=auto
 cd freeCodeCamp
 pwd
+cd
+ls --color=auto
+ls --color=auto
+cd project
+ls --color=auto
+cd freeCodeCamp
+ls --color=auto
