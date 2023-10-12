@@ -33,3 +33,4 @@ cd project
 ls --color=auto
 cd freeCodeCamp
 ls --color=auto
+cd test
