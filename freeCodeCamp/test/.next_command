@@ -146,3 +146,4 @@ find -name src
 find -name website
 find
 cd client
+mkdir assets
