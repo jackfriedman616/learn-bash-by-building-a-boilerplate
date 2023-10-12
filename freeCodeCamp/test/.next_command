@@ -92,3 +92,4 @@ touch footer.jpeg
 clear
 ls --color=auto
 touch roboto.font
+touch lato.font
