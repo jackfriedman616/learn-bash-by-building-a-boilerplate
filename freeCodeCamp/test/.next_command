@@ -50,3 +50,5 @@ clear
 ls --color=auto -1
 ls --color=auto
 ls --color=auto -l
+more has
+cd has
