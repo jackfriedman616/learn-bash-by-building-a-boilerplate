@@ -89,3 +89,5 @@ touch header.png
 __vsc_prompt_cmd_original
 footer.jpeg
 touch footer.jpeg
+clear
+ls --color=auto
