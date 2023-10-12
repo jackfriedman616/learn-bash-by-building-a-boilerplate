@@ -195,3 +195,4 @@ __vsc_prompt_cmd_original
 ls --color=auto
 echo yay
 echo Yay!
+echo I finished the boilerplate!
